@@ -5,7 +5,7 @@ description:        "Web Desaign, and i like coffy"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/ukm_request__rumah_gadang_by_pikeholic-d3lhltt.jpg'
+background:         'http://www.dcpl.info/wp-content/uploads/background-website-26-hd-wallpaper-background-and-wallpaper.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://tora9.github.io
