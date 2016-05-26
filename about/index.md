@@ -7,11 +7,11 @@ date: 2016-03-21
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
+## Biodata
+* Nama : Widya Ayu 
+* Alamat : Jl. Garuda Sakti
+* TTL : Pekanbaru, 17 Agustus 1995
+* [uin](http://uin-suska.ac.id)
 * Optional post image
 * Social icons
 * Page for sharing projects
