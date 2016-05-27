@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
@@ -8,16 +8,11 @@ date: 2016-03-21
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Biodata
-* Nama : Widya Ayu 
-* Alamat : Jl. Garuda Sakti
+* Nama : Widya Ayu
 * TTL : Pekanbaru, 17 Agustus 1995
+* Alamat : Jl. Garuda Sakti
+* [Sistem Informasi](http://sif.uin-suska.ac.id)
 * [uin](http://uin-suska.ac.id)
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## Preview
 
