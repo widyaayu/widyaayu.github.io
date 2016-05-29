@@ -11,6 +11,7 @@ date: 2016-03-21
 * Nama : Widya Ayu
 * TTL : Pekanbaru, 17 Agustus 1995
 * Alamat : Jl. Garuda Sakti
+* Status : Seorang Mahasiswi Jurusan Sistem Informasi, Fakultas Sains dan Teknologi Uin Suska Riau
 * [Sistem Informasi](http://sif.uin-suska.ac.id)
 * [uin](http://uin-suska.ac.id)
 
